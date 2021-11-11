@@ -15,4 +15,11 @@ function esMayor(a, b) {
 	}
 }
 
+//Funcion es Menor
+const esMenor=(a,b)=>{
+	(a<b)
+		? console.log(`${a} es menor a ${b}`)
+		: console.log(`${b} es menor a ${a}`)
+}
+
 esMayor(44, 22)
