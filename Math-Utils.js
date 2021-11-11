@@ -22,4 +22,5 @@ const esMenor=(a,b)=>{
 		: console.log(`${b} es menor a ${a}`)
 }
 
-esMayor(44, 22)
+//esMayor(44, 22)
+esMenor(3,6)
