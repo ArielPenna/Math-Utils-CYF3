@@ -32,3 +32,4 @@ esMenor(33, 45)
 console.log("Cintya");
 console.log("Lishi");
 console.log("maca")
+console.log("Caro");
