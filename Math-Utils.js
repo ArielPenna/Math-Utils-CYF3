@@ -16,3 +16,20 @@ function esMayor(a, b) {
 }
 
 esMayor(44, 22)
+
+//Funcion esMenor
+function esMenor(a, b) {
+	if (a < b) {
+		console.log(a + ' es menor que ' + b)
+	} else {
+		console.log(b + ' es menor que ' + a)
+	}
+}
+
+esMenor(33, 45)
+
+
+console.log("Cintya");
+console.log("Lishi");
+console.log("maca")
+console.log("Caro");
