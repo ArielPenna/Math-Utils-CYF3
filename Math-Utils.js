@@ -29,4 +29,5 @@ function esMenor(a, b) {
 esMenor(33, 45)
 
 
-console.log("Cintya")
+console.log("Cintya");
+console.log("Lishi");
