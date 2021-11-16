@@ -28,12 +28,10 @@ function esMenor(a, b) {
 
 esMenor(33, 45)
 
-console.log("maca")
-console.log("Caro");
-console.log("Holiwis equipo azul");
-<<<<<<< HEAD
-=======
-console.log("esto se ve entrete y prometedor! Vamos!");
+console.log('maca')
+console.log('Caro')
+console.log('Holiwis equipo azul')
+console.log('esto se ve entrete y prometedor! Vamos!')
 console.log('Cintya')
 console.log('Lishi')
 console.log('maca')
@@ -41,4 +39,3 @@ console.log('Caro')
 console.log('Holiwis equipo azul')
 console.log('esto se ve entrete y prometedor! Vamos!')
 console.log('Prueba!!!!')
->>>>>>> d3383b4c68725f82db3d3cce91d95f9226c07fca
