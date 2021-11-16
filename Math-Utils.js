@@ -42,8 +42,8 @@ console.log('Prueba!!!!')
 
 //Función Calcular Perimetro de un rectángulo en metros
 function calcularPerimetro(ancho, alto){
-	let resultado = ancho*alto;
-	console.log(`El perimetro del rectángulo es ${resultado}m2`);
+	let resultado = (2*ancho)+(2*alto);
+	console.log(`El perimetro del rectángulo es ${resultado}cm`);
 	return resultado;
 }
 
