@@ -34,4 +34,3 @@ console.log("Lishi");
 console.log("maca")
 console.log("Caro");
 console.log("Holiwis equipo azul");
-console.log("Emi")
