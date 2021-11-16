@@ -39,3 +39,11 @@ console.log('Caro')
 console.log('Holiwis equipo azul')
 console.log('esto se ve entrete y prometedor! Vamos!')
 console.log('Prueba!!!!')
+
+//funcion PerimetroShim
+
+function perimetro(a, b) {
+	per = ((a*2) + (b*2));
+	return per;
+}
+console.log(perimetro(20, 10));
