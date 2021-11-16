@@ -33,6 +33,7 @@ console.log("Cintya");
 console.log("Lishi");
 console.log("maca")
 
+//raizCuadrada
 function raizCuadrada(numero){
 return Math.sqrt(numero)
 }
