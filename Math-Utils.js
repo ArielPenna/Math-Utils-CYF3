@@ -22,5 +22,9 @@ const esMenor=(a,b)=>{
 		: console.log(`${b} es menor a ${a}`)
 }
 
+
+const perimetroGonzaloMardones = (ancho,largo)=> ancho*largo
+
 //esMayor(44, 22)
-esMenor(3,6)
+//esMenor(3,6)
+perimetroGonzaloMardones(20,20)
