@@ -28,10 +28,18 @@ function esMenor(a, b) {
 
 esMenor(33, 45)
 
+console.log('Cintya')
+console.log('Lishi')
+console.log('maca')
+console.log('Caro')
+console.log('Holiwis equipo azul')
+console.log('esto se ve entrete y prometedor! Vamos!')
 
-console.log("Cintya");
-console.log("Lishi");
-console.log("maca")
-console.log("Caro");
-console.log("Holiwis equipo azul");
-console.log("esto se ve entrete y prometedor! Vamos!");
+function raizCuadrada(numero) {
+	return Math.sqrt(numero)
+}
+
+function perimetro(largo,ancho) {
+	return ((largo + ancho)*2)
+}
+perimetro(10,20)
