@@ -38,3 +38,10 @@ console.log('esto se ve entrete y prometedor! Vamos!')
 function raizCuadrada(numero) {
 	return Math.sqrt(numero)
 }
+
+//Lisette
+
+function rectangulo(ancho, largo) {
+	return (ancho * 2) + (largo * 2);
+}
+
