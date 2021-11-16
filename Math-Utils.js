@@ -35,3 +35,7 @@ console.log("Lishi");
 function raizCuadrada(numero) {
 	return Math.sqrt(numero)
 }
+console.log("maca")
+console.log("Caro");
+console.log("Holiwis equipo azul");
+console.log("esto se ve entrete y prometedor! Vamos!");
