@@ -38,3 +38,10 @@ console.log('esto se ve entrete y prometedor! Vamos!')
 function raizCuadrada(numero) {
 	return Math.sqrt(numero)
 }
+
+//Maca
+function perimetro(a,b){
+	let perimetro = 2 * a + 2 * b
+	console.log()
+	return perimetro;
+}
