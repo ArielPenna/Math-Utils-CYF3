@@ -38,3 +38,11 @@ console.log('esto se ve entrete y prometedor! Vamos!')
 function raizCuadrada(numero) {
 	return Math.sqrt(numero)
 }
+
+
+//Nicolas Peredo
+function calculatePerimeter(a, b) {
+	return 2 * a + 2 * b;
+}
+perimeter = calculatePerimeter(2, 3);
+console.log(perimeter);
