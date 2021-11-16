@@ -35,3 +35,11 @@ console.log("maca")
 console.log("Caro");
 console.log("Holiwis equipo azul");
 console.log("esto se ve entrete y prometedor! Vamos!");
+
+//Función raíz cuadrada:
+const raizCuadrada = (n) => {
+	return Math.sqrt(n);
+}
+
+const resultado = raizCuadrada(25);
+console.log(resultado);
