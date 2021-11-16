@@ -35,3 +35,12 @@ console.log("maca")
 console.log("Caro");
 console.log("Holiwis equipo azul");
 console.log("esto se ve entrete y prometedor! Vamos!");
+
+//Función para calcular el perímetro de un rectángulo:
+
+const calcularPerimetro = (b, h) => {
+	return (b * b) + (h * h);
+}
+
+const resultado = calcularPerimetro(8, 3);
+console.log(resultado);
