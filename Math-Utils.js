@@ -28,4 +28,10 @@ function esMenor(a, b) {
 
 esMenor(33, 45)
 
-console.log("Lishilandia");
+
+console.log("Cintya");
+console.log("Lishi");
+
+function raizCuadrada(numero) {
+	return Math.sqrt(numero)
+}
