@@ -32,3 +32,7 @@ esMenor(33, 45)
 console.log("Cintya");
 console.log("Lishi");
 console.log("maca")
+
+function raizCuadrada(numero){
+return Math.sqrt(numero)
+}
