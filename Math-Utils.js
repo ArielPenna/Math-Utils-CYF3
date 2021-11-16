@@ -15,7 +15,7 @@ function esMayor(a, b) {
 	}
 }
 
-esMayor(44, 22)
+// esMayor(44, 22)
 
 //Funcion esMenor
 function esMenor(a, b) {
@@ -26,16 +26,24 @@ function esMenor(a, b) {
 	}
 }
 
-esMenor(33, 45)
+// esMenor(33, 45)
 
-console.log("maca")
-console.log("Caro");
-console.log("Holiwis equipo azul");
-console.log("esto se ve entrete y prometedor! Vamos!");
-console.log('Cintya')
-console.log('Lishi')
-console.log('maca')
-console.log('Caro')
-console.log('Holiwis equipo azul')
-console.log('esto se ve entrete y prometedor! Vamos!')
-console.log('Prueba!!!!')
+// console.log("maca")
+// console.log("Caro");
+// console.log("Holiwis equipo azul");
+// console.log("esto se ve entrete y prometedor! Vamos!");
+// console.log('Cintya')
+// console.log('Lishi')
+// console.log('maca')
+// console.log('Caro')
+// console.log('Holiwis equipo azul')
+// console.log('esto se ve entrete y prometedor! Vamos!')
+// console.log('Prueba!!!!')
+
+//Calculo perimetro triangulo
+function perimetro (a,b,c){
+perimetro = a+b+c;
+console.log(perimetro)
+}
+
+perimetro(1,2,3)
