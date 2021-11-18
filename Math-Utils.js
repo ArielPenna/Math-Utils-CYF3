@@ -41,3 +41,10 @@ console.log('esto se ve entrete y prometedor! Vamos!')
 console.log('Prueba!!!!')
 
 //prueba
+
+
+//raizCuadrada
+function raizCuadrada(numero){
+return Math.sqrt(numero)
+}
+
