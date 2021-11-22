@@ -48,3 +48,6 @@ function raizCuadrada(numero){
 return Math.sqrt(numero)
 }
 
+function potenciarNumero(base, exponente){
+	return base** exponente;
+}
