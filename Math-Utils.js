@@ -48,3 +48,7 @@ function raizCuadrada(numero){
 return Math.sqrt(numero)
 }
 
+//Función calcular perímetro Barbara
+const calcularPerimetro = (ancho, largo) => {
+	return (ancho * ancho) + (largo * largo);
+}
