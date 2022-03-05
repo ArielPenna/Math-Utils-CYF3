@@ -32,3 +32,5 @@ esMenor(33, 45)
 function raizCuadrada(numero) {
 	return Math.sqrt(numero)
 }
+
+console.log('cree una rama nueva')
