@@ -33,4 +33,4 @@ function raizCuadrada(numero) {
 	return Math.sqrt(numero)
 }
 
-console.log('cree una rama nueva')
+console.log('cree una rama nueva desde moto desktop!!')
